@@ -1,0 +1,136 @@
+{
+    "reviews": [
+    {
+        "professor": "Dr. John Smith",
+        "subject": "Introduction to Programming",
+        "stars": 4,
+        "review": "Dr. Smith is an excellent instructor who makes complex topics accessible. The assignments were challenging but rewarding."
+    },
+    {
+        "professor": "Dr. Emily Davis",
+        "subject": "Advanced Calculus",
+        "stars": 3,
+        "review": "Dr. Davis knows her stuff but her lectures can be monotonous. The course is tough but necessary for advanced studies."
+    },
+    {
+        "professor": "Dr. Sarah Lee",
+        "subject": "Quantum Mechanics",
+        "stars": 5,
+        "review": "Dr. Lee is phenomenal. Her passion for quantum mechanics is infectious, and she makes the difficult material engaging and understandable."
+    },
+    {
+        "professor": "Dr. Laura Green",
+        "subject": "World History",
+        "stars": 4,
+        "review": "Dr. Green is engaging and brings historical events to life. The course is well-organized and not too demanding."
+    },
+    {
+        "professor": "Dr. Mark Johnson",
+        "subject": "Organic Chemistry",
+        "stars": 2,
+        "review": "Dr. Johnson’s lectures are hard to follow, and the course is extremely challenging. I would recommend additional study resources."
+    },
+    {
+        "professor": "Dr. Karen Adams",
+        "subject": "Microeconomics",
+        "stars": 4,
+        "review": "Dr. Adams explains economic principles clearly and provides useful real-world examples. The course workload is manageable."
+    },
+    {
+        "professor": "Dr. Michael Brown",
+        "subject": "Introduction to Philosophy",
+        "stars": 3,
+        "review": "Dr. Brown is knowledgeable but the course material can be dry. It’s a good class if you are interested in philosophy, but not very interactive."
+    },
+    {
+        "professor": "Dr. Jennifer Wilson",
+        "subject": "Computer Networks",
+        "stars": 5,
+        "review": "Dr. Wilson is incredibly knowledgeable and provides clear, practical examples. The course is intensive but very rewarding."
+    },
+    {
+        "professor": "Dr. Brian Clark",
+        "subject": "Modern Art",
+        "stars": 4,
+        "review": "Dr. Clark’s enthusiasm for modern art is evident. The lectures are insightful, and the assignments encourage creative thinking."
+    },
+    {
+        "professor": "Dr. Linda Martinez",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Dr. Martinez is competent but the course can be quite demanding. The material is useful but requires significant effort."
+    },
+    {
+        "professor": "Dr. Steven Lewis",
+        "subject": "Biology of Disease",
+        "stars": 4,
+        "review": "Dr. Lewis provides a thorough understanding of the subject. The course is challenging but offers great insights into disease mechanisms."
+    },
+    {
+        "professor": "Dr. Nancy Walker",
+        "subject": "Introduction to Sociology",
+        "stars": 5,
+        "review": "Dr. Walker is fantastic. She brings sociology to life with engaging lectures and meaningful discussions. Highly recommended."
+    },
+    {
+        "professor": "Dr. David Thompson",
+        "subject": "Classical Mechanics",
+        "stars": 3,
+        "review": "Dr. Thompson is knowledgeable, but the course is very demanding. It’s worth taking if you’re committed to physics."
+    },
+    {
+        "professor": "Dr. Amy Turner",
+        "subject": "Digital Media",
+        "stars": 4,
+        "review": "Dr. Turner is very engaging and provides practical insights into digital media. The projects are interesting and relevant."
+    },
+    {
+        "professor": "Dr. James Hall",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Dr. Hall’s passion for the environment is evident. The course is well-organized and includes hands-on activities that enhance learning."
+    },
+    {
+        "professor": "Dr. Maria Nelson",
+        "subject": "Genetics",
+        "stars": 4,
+        "review": "Dr. Nelson is an expert in her field. The course material is challenging but fascinating, and she is always willing to help."
+    },
+    {
+        "professor": "Dr. Robert Wright",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Dr. Wright is competent but the lectures can be a bit dry. The course is valuable but requires additional effort outside of class."
+    },
+    {
+        "professor": "Dr. Elizabeth Young",
+        "subject": "Financial Accounting",
+        "stars": 4,
+        "review": "Dr. Young makes accounting principles clear and the course is structured well. Expect a fair amount of work but it’s manageable."
+    },
+    {
+        "professor": "Dr. William Scott",
+        "subject": "Advanced Programming",
+        "stars": 5,
+        "review": "Dr. Scott is an excellent teacher who makes complex programming concepts understandable. The course is tough but incredibly rewarding."
+    },
+    {
+        "professor": "Dr. Patricia Harris",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Dr. Harris is very knowledgeable and the course includes interesting discussions on current events. It’s well worth taking."
+    },
+    {
+        "professor": "Dr. Thomas Robinson",
+        "subject": "Introduction to Sociology",
+        "stars": 3,
+        "review": "Dr. Robinson covers the basics effectively but the lectures can be somewhat monotonous. It’s a decent introductory course."
+    },
+    {
+        "professor": "Dr. Susan King",
+        "subject": "Chemistry",
+        "stars": 4,
+        "review": "Dr. King is a great professor who provides clear explanations and interesting labs. The course is rigorous but manageable."
+    }
+    ]
+}
